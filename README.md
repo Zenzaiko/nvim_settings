@@ -1,4 +1,7 @@
-# 💤 LazyVim
+# リポジトリ概要
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Neovimの設定ファイル。
+
+LazyVimをカスタムしてちょこちょこ設定をいじっている。
+
+どこかで設定を洗い替えしたい。　:pouting_cat:
