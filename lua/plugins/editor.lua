@@ -113,7 +113,7 @@ return {
     opts.extensions = {
       file_browser = {
         theme = "dropdown",
-        -- disables netw and use telescope-file-browser in its plase
+        -- disables netw and use telescope-file-browser in its place
         hifack_netrw = true,
         mappings = {
           ["n"] = {
